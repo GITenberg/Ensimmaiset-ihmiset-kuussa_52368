@@ -1,5 +1,5 @@
 _repo: Ensimmaiset-ihmiset-kuussa_52368
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: The first men in the moon. Finnish
 contributor:
   translator:
@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '7732'
     url: http://www.gutenberg.org/2009/agents/7732
     wikipedia: http://fi.wikipedia.org/wiki/Carl_Gustaf_Samuel_Suomalainen
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wells, H. G. (Herbert George)
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/30
     wikipedia: http://en.wikipedia.org/wiki/H._G._Wells
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52368#Ensimmaiset-ihmiset-kuussa
 gutenberg_issued: '2016-06-18'
 gutenberg_type: Text
 identifiers:
